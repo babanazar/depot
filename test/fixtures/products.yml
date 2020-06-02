@@ -3,13 +3,13 @@ one:
   title: MyString
   description: MyText
   price: 9.99
-  image_url: MyString
+  image_url: rails.png
 
 two:
   title: MyString
   description: MyText
   price: 9.99
-  image_url: MyString
+  image_url: rails.png
 
 ruby:
   title: Programmin Ruby 1.9
