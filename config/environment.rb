@@ -9,7 +9,7 @@ Depot::Application.configure do
   config.action_mailer.smtp_settings = {
       address: "smtp.gmail.com",
       port: 587,
-      domain: "dev.depot.com",
+      domain: "depot.example.com",
       authentication: "plain",
       user_name: "barlapgor@gmail.com",
       password: "barlagucin@gmail",
